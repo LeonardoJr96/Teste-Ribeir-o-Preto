@@ -1,0 +1,15 @@
+3.
+a) É uma sequência de números ímpares. Portanto, o próximo número será 9.
+b) Cada número é o dobro de seu antecessor. Então, o próximo número será 128.
+c) Esses números são os quadrados dos números naturais. O próximo número será 49.
+d) Esses são os quadrados dos números pares. O próximo número será 100.
+e) Esta é a sequência de Fibonacci. O próximo número será 13.
+f) Todos iniciam com a letra D. Portanto, o próximo número será 200.
+
+4.
+Ligar o primeiro interruptor e deixa-lá ligado por um tempo e em seguida, desliga-lá.
+Depois, ligar o segundo interruptor e deixar ligado.
+Após isso, entrar na sala e verificar a situação da lâmpada:
+    Caso a lâmpada estiver acesa, ela estará conectada ao interruptor 2.
+    Caso a lâmpada estiver apagada e fria, ela estará conectada ao interruptor 1.
+    Caso a lâmpada estiver apagada e quente, ela estará conectada ao interruptor 3.
